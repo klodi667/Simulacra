@@ -27,3 +27,5 @@ bank database --- wget https://docs.google.com/spreadsheets/d/1knSfWxEN4B3QTUH2S
 wget https://drive.google.com/drive/folders/1VUgM7Uj8up2V53oH5OPkbWX7pkx4DVFO?usp=share_link
 
 git clone https://github.com/touyachrist/evo-zeus
+
+<a href="https://imgflip.com/i/4snn6q"><img src="https://i.imgflip.com/4snn6q.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
